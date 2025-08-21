@@ -54,3 +54,15 @@ node server.js
 * `log/` – Contains server logs
 
 ---
+
+## Demo app
+
+App is currently deployed as a Demo and accessible at:
+[https://unipegapw-greenauto-production.up.railway.app/](https://unipegapw-greenauto-production.up.railway.app/)
+
+BFF Status is accessible at:
+[https://unipegapw-greenauto-bff-production.up.railway.app/api/health](https://unipegapw-greenauto-bff-production.up.railway.app/api/health)
+
+## Dependencies
+
+FE Repository: [https://github.com/Taprolano/UNIPEGAPW-GREENAUTO](https://github.com/Taprolano/UNIPEGAPW-GREENAUTO)
