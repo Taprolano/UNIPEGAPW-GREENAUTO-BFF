@@ -1,0 +1,6 @@
+[
+  { "metric": "Decarbonized Electricity", "value": 59, "target": 100, "year": 2030 },
+  { "metric": "BEV Nameplates EU PC", "value": 44, "target": 100, "year": 2030 },
+  { "metric": "Recycled Components (M units)", "value": 2.1, "target": 5.0, "year": 2030 },
+  { "metric": "Waste Recovery Rate", "value": 84, "target": 100, "year": 2050 }
+]

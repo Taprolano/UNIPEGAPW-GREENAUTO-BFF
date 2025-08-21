@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Women in Leadership (L1-L3)",
+    "value": 33.5,
+    "target": 40,
+    "year": 2024
+  },
+  {
+    "category": "Women in STEM Functions",
+    "value": 16.6,
+    "target": 25,
+    "year": 2024
+  },
+  {
+    "category": "Employees with Disabilities",
+    "value": 3.46,
+    "target": 5.0,
+    "year": 2024
+  }
+]

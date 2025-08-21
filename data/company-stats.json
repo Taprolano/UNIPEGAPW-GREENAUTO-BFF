@@ -1,0 +1,70 @@
+[
+  {
+    "year": 2025,
+    "totalEmissions": 94.2,
+    "emissionsTrend": -4.4,
+    "womenLeadership": 37.8,
+    "womenTrend": 7.4,
+    "decarbElectricity": 78,
+    "decarbTrend": 8.3,
+    "vehiclesRecalled": 0.8,
+    "recallTrend": -33.3,
+    "isPreliminary": true,
+    "dataMonth": "August"
+  },
+  {
+    "year": 2024,
+    "totalEmissions": 98.5,
+    "emissionsTrend": -1.8,
+    "womenLeadership": 35.2,
+    "womenTrend": 3.5,
+    "decarbElectricity": 72,
+    "decarbTrend": 14.3,
+    "vehiclesRecalled": 1.2,
+    "recallTrend": -33.3
+  },
+  {
+    "year": 2023,
+    "totalEmissions": 100.3,
+    "emissionsTrend": -12.6,
+    "womenLeadership": 34.0,
+    "womenTrend": 13.3,
+    "decarbElectricity": 63,
+    "decarbTrend": 26.0,
+    "vehiclesRecalled": 1.8,
+    "recallTrend": 20.0
+  },
+  {
+    "year": 2022,
+    "totalEmissions": 114.7,
+    "emissionsTrend": -11.0,
+    "womenLeadership": 30.0,
+    "womenTrend": 7.1,
+    "decarbElectricity": 50,
+    "decarbTrend": 25.0,
+    "vehiclesRecalled": 1.5,
+    "recallTrend": -21.1
+  },
+  {
+    "year": 2021,
+    "totalEmissions": 128.9,
+    "emissionsTrend": 0,
+    "womenLeadership": 28.0,
+    "womenTrend": 0,
+    "decarbElectricity": 40,
+    "decarbTrend": 0,
+    "vehiclesRecalled": 1.9,
+    "recallTrend": 0
+  },
+  {
+    "year": 2020,
+    "totalEmissions": 142.5,
+    "emissionsTrend": 3.2,
+    "womenLeadership": 25.8,
+    "womenTrend": 1.6,
+    "decarbElectricity": 32,
+    "decarbTrend": -5.9,
+    "vehiclesRecalled": 2.4,
+    "recallTrend": 33.3
+  }
+]

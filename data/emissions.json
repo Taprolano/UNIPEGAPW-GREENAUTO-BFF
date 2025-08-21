@@ -1,0 +1,44 @@
+[
+  {
+    "year": 2019,
+    "scope1": 1.8,
+    "scope2": 2.4,
+    "scope3": 523.3,
+    "total": 527.5
+  },
+  {
+    "year": 2020,
+    "scope1": 1.7,
+    "scope2": 2.2,
+    "scope3": 480.1,
+    "total": 483.0
+  },
+  {
+    "year": 2021,
+    "scope1": 1.8,
+    "scope2": 2.4,
+    "scope3": 523.3,
+    "total": 527.5
+  },
+  {
+    "year": 2022,
+    "scope1": 1.6,
+    "scope2": 2.0,
+    "scope3": 445.8,
+    "total": 449.4
+  },
+  {
+    "year": 2023,
+    "scope1": 1.4,
+    "scope2": 1.8,
+    "scope3": 420.2,
+    "total": 423.4
+  },
+  {
+    "year": 2024,
+    "scope1": 1.1,
+    "scope2": 1.4,
+    "scope3": 412.1,
+    "total": 414.6
+  }
+]
