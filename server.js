@@ -78,7 +78,7 @@ const requestLogger = (req, res, next) => {
 
 // Middleware - order matters!
 app.use(cors({
-  origin: ['http://localhost:3000', 'http://localhost:3001'],
+  origin: ['http://localhost:3000', 'http://localhost:3001', 'https://unipegapw-greenauto-production.up.railway.app'],
   credentials: true
 }));
 
