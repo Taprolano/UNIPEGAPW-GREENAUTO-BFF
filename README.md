@@ -52,5 +52,5 @@ node server.js
 * `server.js` – Entry point of the BFF application
 * `data/` – Contains API data responses
 * `log/` – Contains server logs
-* 
+
 ---
